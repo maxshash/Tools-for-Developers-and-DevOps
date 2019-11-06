@@ -12,7 +12,7 @@ The list of tools for Developers and DevOps Engineers.
 
 [<img src="https://exbrain.app/assets/img/favicon.png" alt="ExBrain" height="16" /> ExBrain](https://exbrain.app/) - Exbrain will help you become a better developer by helping you learn and remember your code base methods and functions.
 
-[<img src="https://automatedapi.com/favicon.ico" alt="AutomatedAPI" height="16" /> Automated API](https://automatedapi.com/) - Web services so you don't have to.
+[<img src="https://automatedapi.com/favicon.ico" alt="AutomatedAPI" height="16" /> Automated API](https://automatedapi.com/) - Automated API is built to make api generation little more than a click.
 
 
 
