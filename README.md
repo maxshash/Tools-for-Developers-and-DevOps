@@ -8,6 +8,10 @@ Upcoming Tools
 
 [<img src="https://deployplace.com/images/favicon/favicon.ico" alt="DeployPlace" height="16" /> DeployPlace](https://deployplace.com/) - Deploy automation tool for developers. Complex deployments become simple. Free lifetime plan: 3 projects, 1 user, 1 deployment template for reuse, unlimited number of deployments.
 
+[<img src="https://exbrain.app/assets/img/favicon.png" alt="ExBrain" height="16" /> ExBrain](https://exbrain.app/) - Exbrain will help you become a better developer by helping you learn and remember your code base methods and functions.
+
+[<img src="https://automatedapi.com/favicon.ico" alt="AutomatedAPI" height="16" /> Automated API](https://automatedapi.com/) - Web services so you don't have to.
+
 
 
 
