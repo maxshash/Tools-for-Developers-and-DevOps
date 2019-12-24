@@ -1,4 +1,4 @@
-This is a Readme.rst file for DeployPlace docs on readthedocs.io
+This is a Readme.rst file for [DeployPlaсe](https://deployplace.com/) docs on readthedocs.io
 
 ![DeployPlace Logo](https://deployplace.com/images/mainlogo.svg)
 
