@@ -17,3 +17,4 @@ Feel free to enjoy the following articles for now:
 * [How Deployment Tools Save Time in Software Development](https://deployplace.com/blog/how-deployment-tools-save-time/)
 
 DeployPlace is currently at pre-launch stage. Feel free to register for a beta access and receive a lifetime discount!
+https://deployplace.com/
