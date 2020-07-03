@@ -14,7 +14,7 @@ The list of tools for Developers and DevOps Engineers.
 
 [<img src="https://automatedapi.com/favicon.ico" alt="AutomatedAPI" height="16" /> Automated API](https://automatedapi.com/) - Automated API is built to make api generation little more than a click.
 
-[<img src="https://statusgator.com/favicon.ico" alt="StatusGator" height="16" /> StatusGator](https://StatusGator.com/) - StatusGator monitors the status pages of more than 790 cloud services and sends you alerts you via email, Slack, SMS, and more..
+[<img src="https://statusgator.com/assets/favicon-6616612c02efc1052368605c57ca540606f6810f193c62202ede3343d1f71a91.ico" alt="StatusGator" height="16" /> StatusGator](https://StatusGator.com/) - StatusGator monitors the status pages of more than 790 cloud services and sends you alerts you via email, Slack, SMS, and more..
 
 
 
